@@ -84,6 +84,10 @@ Since this is a visual mock generated in Bolt.new, the local setup is minimal.
 
 ## Flow general
 
+This diagram describes the user flow and application architecture, using simple text notation for clear visualization in the README file.
+
+```bash
+
 +-------------------+       selects       +-------------------+
 |   Landing Page    | ------------------> |   User Role       |
 |  (Welcome, About) |                     |  (Producer, Brand,|
@@ -112,7 +116,6 @@ Since this is a visual mock generated in Bolt.new, the local setup is minimal.
 | - Certificate     |                   |  (simulated)      |
 +-------------------+                   +-------------------+
 
-
 ---
 ### Verification Flow for Buyers
 
@@ -130,6 +133,7 @@ Since this is a visual mock generated in Bolt.new, the local setup is minimal.
 +----------------------+|  "Reaction" Feature  || - Saves interest     || - Adds to favorites  |
 +----------------------+
 
+```
 ---
 
 ## 📄 License
