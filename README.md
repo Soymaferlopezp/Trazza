@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Soymaferlopezp/swipetrade/blob/main/apps/frontend/public/swipetrade-logo.png" alt="SwipeTrade Logo" height="90">
+  <img src="https://github.com/Soymaferlopezp/Trazza/blob/main/project/src/assets/Trazza-II.png" alt="Tazza Logo" height="250">
 </p>
 
 <h1 align="center">Trazza - Mountain Coffee Traceability Platform
